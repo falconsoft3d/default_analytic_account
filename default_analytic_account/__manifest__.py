@@ -12,8 +12,8 @@
     'description': """
         Agrega campo Cuenta Analítica en Productos y Partner.
     """,
-    'author': "Falcón Solutions",
-    'maintainer': 'Falcon Solutions',
+    'author': "Falcon Solutions SpA",
+    'maintainer': 'Falcon Solutions SpA',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Account',
